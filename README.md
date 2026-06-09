@@ -7,7 +7,5 @@ doing a 15-hour python video marathon right now, mostly just messing around with
 ## what im on right now:
 - python basics (loops, if/else, dicts)
 - daily english practice
-- network automation ideas
-- writing a website cracker once I actually know how to code 
 
 gonna push my scripts here as I go. lets see how far this goes.
