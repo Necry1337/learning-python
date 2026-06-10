@@ -17,6 +17,7 @@ name = Label(window,
             text = ' Jack',
             font=('Arial Bold',70)
             )
+#we could've just sent it as one text, but i’m just practicing
 txt=Entry(window, width=10)
 but=Button(window, text="Enter", comman=clicked)
 wronger=Label(window,
@@ -33,4 +34,4 @@ btn.grid(column=0, row=1)
 wronger.grid(column=0, row=2)
 window.mainloop()
 
-#we could've just sent it as one text, but i’m just practicing
+
